@@ -8,108 +8,54 @@ Domain: Insurance
 # Dataset Description:
 The data consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes.This dataset is owned and supplied by the Dutch data mining company, Sentient Machine Research, and is based on real-world business data. This dataset has been used in the CoIL Challenge 2000 data mining competition.
 
- 
+ # Variable Name:   Description
 
-Variable Name
+Postal_Code:      Postal Code
 
-Description
+Region:           Region
 
-Postal_Code
+Start_Date:       Start date
 
-Postal Code
+End_Date:         End Date
 
-Region
+Commission_Rate:  Commission Rate
 
-Region
+No_of_Brokers:    Number of Brokers
 
-Start_Date
+Customer_Subtype: Customer Subtype
 
-Start date
+No_of_houses:     Number of houses 1 - 10
 
-End_Date
+Avg_size_household: Avg size household 1 - 6
 
-End Date
+Avg_age:            Avg age
 
-Commission_Rate
+Customer_main_type: Customer main type
 
-Commission Rate
+Roman_catholic:     Roman catholic
 
-No_of_Brokers
+Protestant:         Protestant
 
-Number of Brokers
+Other_religion:     Other religion
 
-Customer_Subtype
+No_religion:        No religion
 
-Customer Subtype
+Contribution_car_policies: Contribution car policies
 
-No_of_houses
+Contribution_lorry_policies: Contribution lorry policies
 
-Number of houses 1 - 10
+Contribution_life_insurances: Contribution life insurances
 
-Avg_size_household
+Contribution_fire_policies: Contribution fire policies
 
-Avg size household 1 - 6
+Contribution_boat_policies: Contribution boat policies
 
-Avg_age
+No_of_car_policies:        Number of car policies
 
-Avg age
+No_of_lorry_policies:      Number of lorry policies
 
-Customer_main_type
+No_of_life_insurances:     Number of life insurances
 
-Customer main type
+No_of_fire_policies:       Number of fire policies
 
-Roman_catholic
-
-Roman catholic
-
-Protestant
-
-Protestant
-
-Other_religion
-
-Other religion
-
-No_religion
-
-No religion
-
-Contribution_car_policies
-
-Contribution car policies
-
-Contribution_lorry_policies
-
-Contribution lorry policies
-
-Contribution_life_insurances
-
-Contribution life insurances
-
-Contribution_fire_policies
-
-Contribution fire policies
-
-Contribution_boat_policies
-
-Contribution boat policies
-
-No_of_car_policies
-
-Number of car policies
-
-No_of_lorry_policies
-
-Number of lorry policies
-
-No_of_life_insurances
-
-Number of life insurances
-
-No_of_fire_policies
-
-Number of fire policies
-
-No_of_boat_policies
-
-Number of boat policies
+No_of_boat_policies:       Number of boat policies
