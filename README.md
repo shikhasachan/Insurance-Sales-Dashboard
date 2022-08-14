@@ -1,4 +1,4 @@
-# Excel
+
 # Insurance Sales Dashboard
 DESCRIPTION
 A single page interactive dashboard to identify potential customers for an insurance company.    
